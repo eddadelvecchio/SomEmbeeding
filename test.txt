@@ -1,0 +1,359 @@
+x.x 
+x 
+w 
+w w 
+ 
+x.x (x) 
+wx 
+w w w 
+x.x+-x.x 
+x (x.x) 
+- 
+x.x (x.x) 
+x.x (x.x-x.x) 
+w w w w 
+x (x) 
+xx 
+w x 
+w-w 
+x.x% 
+x (x.x%) 
+x-x 
+x.x-x.x 
+w (w) 
+<x.x 
+x/x 
+x% 
+w w w w w 
+x (x%) 
+w/w 
+x w 
+.x 
++ 
+w w (w) 
+x.xw-x 
+wxw 
+x.x* 
+x+-x 
+x.x (x.x x.x) 
+w-w w 
+x.x w 
+x (x-x) 
+x.x * 
+w-x 
+w w w w w w 
+x(x.x) 
+(x.x) 
+[ x ] 
+w. w 
+wxwx 
+w (%) 
+w w 
+xw 
+x.x+-x.x w 
+w w w w w w w 
+< x.x 
+w (w/w) 
+w w w (w) 
+xxx 
+w_x 
+* 
+w w (%) 
+w w x 
+w.w. 
+w (w = x) 
+w -w 
+(x.x-x.x) 
+w = x.x 
+x.x (x.x w x.x) 
+x (x.x %) 
+w w w w w w w w 
+x.x(x.x-x.x) 
+w-w w w 
+w = x 
+x w w 
+x.x(x.x) 
+% 
+wx w 
+(x) 
+x x 
+x.x % 
+w w (w/w) 
+x-x w 
+x.x x.x 
+w x w 
+w. 
+w w-w 
+x(x) 
+w ( w = x) 
+x(x.x%) 
+x (x %) 
+(x.x x.x) 
+w w w x 
+x/x (x.x) 
+x% w 
+wx-wx 
+x.x * x x 
+w w (w = x) 
+w (x) 
+w/w w 
+x.x [x.x-x.x] 
+>x 
+x:x 
+x.x/x.x 
+w wx 
+w. w w 
+wx.x 
+x.x (x.x - x.x) 
+x+-x.x 
+x.x+-x.x * 
+w w w w w w w w w 
+w w (%) 
+-.x 
+x.xw 
+xx (x.x) 
+w (w w) 
+w w w w (w) 
+w_w 
+x.x w x.x 
+w w w (%) 
+x.x+-x.x* 
+w -w* w 
+w w. 
+w w w 
+wx-x 
+w = x.x (x) w 
+w w w. [ x ] 
+[x] 
+x.x - x.x 
+w w w. x 
+x/x (x%) 
+w w ( w = x) 
+w:x 
+x w x 
+w = x->x 
+x.x (+-x.x) 
+x/x/x 
+x/x (x) 
+w w w (%) 
+x.x (x.xx.x) 
+w-wx 
+<x 
+w w/w 
+w [ x ] 
+x. 
+w: w 
+. 
+w w = x.x w w - x 
+w * 
+w w (w w) 
+x % 
+w w = x 
+x.x+-x.xw 
+w* 
+x'-w-x' 
+x.x (w) 
+w * w 
+w.w 
+w (x% w) 
+<.x 
+wx-wx-wx 
+w'w w 
+w: 
+w w w w w w w w w w 
+w w: 
+w w = x.x 
+w w-w w 
+w_x.x 
+x x 
+w + w 
+xwx 
+w w. w 
+(w) 
+xx.x 
+wx-w 
+- x.x 
+x.x (x-x) 
+w(w) 
+x (x x) 
+x-w 
+x.x(x) 
+w-xw 
+w-w-w 
+x (w) 
+w . w 
+w w w 
+x/x (x.x%) 
+w w w x w 
+w w w. 
+w w * 
+w w w 
+x - x 
+/ 
+w-w w w w 
+.x * 
+xw w 
+w w w w w w w w w w w 
+w-w-x 
+w w* 
+w x-x 
+w x.x 
+.x* 
+? 
+>=x 
+>x.x 
+w w wx 
+w* w 
+w w w-w 
+w w x w 
+x.x% (x) 
+w < x.x 
+wx_x 
+x+ 
+[ x  x ] 
+wx-wx*wx w 
+% w 
+x . x 
+xx (x.x%) 
+w w (x% w) 
+w w w. ( x ) 
+w-x w 
+w w w (w/w) 
+x.x (x/x) 
+w w w = x 
+x w w w 
+w w w w 
+w. w w w 
+x.x*x x 
+w w w-w w 
+x.x [x.x x.x] 
+x (x/x) 
+w w (x) 
+w w w w w (w) 
+x.x (x.x; x.x) 
+x(x%) 
+x.x% (x/x) 
+x/w 
+wx-wxw*wx w 
+x* 
+xx+-xx 
++x.x 
+w w/w w 
+w xw 
+(x-x) 
+w w w w 
+x.x+-x 
+x.x (x.x) w 
+wx w w 
+w+w 
+w w w w (%) 
+w+-w 
+xwx.x 
+x.x(x.xx.x) 
+w w w w (%) 
+x.x T 
+w.x 
+wx (w) 
+x w/w 
+x.x (x.x-x.x)* 
+w w/w 
+w (w/w x ) 
+xx% 
+w x (w) 
+- w 
+w - w 
+x (x w x) 
+w w w (w = x) 
+< x 
+w (w w w) 
+w w w w x 
+w x w w 
+x.x (-x.x x.x) 
+w x 
+x% (x/x) 
+xw-x 
+x. w w 
+? 
+x-w w 
+x x x 
+x [x-x] 
+w-w (w) 
+> x 
+(x.x%) 
+w w w/w 
+< .x 
+w w (w w w) 
+wx/wx 
+x (xx) 
+x.x x.x 
+w = x w 
+w w w w w w w w w w w w 
+x.x * x.x * x.x w 
+#x 
+w = x.x w - x 
+w w w (w w) 
+w (x.x) 
+x * 
++-x.x 
+x+-x w 
+w = x.x (x) w x 
+w w w: 
+w % 
+x. w 
+w (wx) 
+x.x (x.x;x.x) 
+w-w x 
+x.xw+x 
+[x.x x.x] 
+wx_wx 
+xx (x) 
+x w x w 
+x-x.x 
+w- w 
+? 
+[x.x-x.x] 
+x.x-x 
+% w w 
+x w w w > xw( w ) 
+w.wxw 
+wxwxwx 
+w-w (w/w) 
+w_wx 
+w (w=x) 
+w % 
+( x ) 
+wx_w 
+w w w w w = x.x w 
+w/w w w 
+w w [ x ] 
+x.x+-x.x (x) 
+x_w 
+w ( w ) 
+w (x) = x 
+_ 
+x% (x) 
+wx wx 
+w & w 
+w x w x 
+w [w] 
++- 
+w x [ x ] 
+x% w w 
+w w = x.x w w = x.x 
+w (x w) 
+x.x+-x.x (x.x-x.x) 
+w/w/w 
+w w w ( w = x) 
+w = x.x-x.x? 
+x x x 
+wx:x 
+x (x - x) 
+<x.x* 
+w = x.x (x)? 
+w w w. (x) 
+w_w_w 
+w-w w (w) 
+x-x-x 
+x.x(x.x x.x) 
+x.x [x.x] 
+w w w w

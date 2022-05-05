@@ -20,11 +20,13 @@ import seaborn as sn
 from matplotlib.gridspec import GridSpec
 
 vectorizer = CharVectorizer(" x.w()+-%<>/*=:_[]';T#&?")
-with open("testInt.txt", "r") as f:
+with open("test.txt", "r") as f:
     windows = f.readlines()
+windows = [x.replace("\n", "").strip() for x in windows]
+windows = [y for x in windows for y in x.split(" ")]
 target_length = max(len(window) for window in windows)
 matrix = vectorizer.transform(windows, target_length)
-sys.stdout= open("resultDictionaryInt.txt","w")
+sys.stdout= open("resultDictionary.txt","w")
 print(matrix)
 
 ## The Multivariate DTW-SOM was designed to take input data in shape of (n, k, t)
@@ -132,7 +134,7 @@ for i in range(6):
         plt.plot(np.array(weights)[23, i, j, :], color= 'olive') #w
         ax.set_facecolor(mapper.to_rgba(KMeans_all.labels_[i*6 +j]))
 plt.subplots_adjust(wspace=0.1, hspace=0.1)
-plt.savefig("kmeansDictionaryInt.png", dpi=200)
+plt.savefig("kmeansDictionary.png", dpi=200)
 plt.show()
 
 def initialize_centroids(k, data_all_new):

@@ -24,7 +24,6 @@ for cluster_id in np.unique(affprop.labels_):
     exemplar = words[affprop.cluster_centers_indices_[cluster_id]]
     cluster = np.unique(words[np.nonzero(affprop.labels_==cluster_id)])
     cluster_str = ", ".join(cluster)
-    #sys.stdout= open("affprop.txt","w")
     print(" - CLUSTER WINNER: %s* - CLUSTER WORDS: %s" % (exemplar, cluster_str))
 
 colors = cycle("bgrcmykbgrcmykbgrcmykbgrcmyk")

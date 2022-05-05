@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from itertools import cycle
 from scipy.cluster.hierarchy import dendrogram, linkage
+from weighted_levenshtein import lev, osa, dam_lev
 
 f = open("test.txt", "r")    
 words =[line.rstrip('\n') for line in f] 

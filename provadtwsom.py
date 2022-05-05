@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib
+matplotlib.use('Agg')
 from matplotlib import cm
 import matplotlib.pyplot as plt
 import numpy as np
@@ -36,7 +37,7 @@ data_all_new = np.swapaxes(matrix, 1, 2)
 som_shape = (6,6)
 som = dtwsom.MultiDtwSom(6, 6, data_all_new.shape[2], bands =data_all_new.shape[1], w = [(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24),(1/24)], sigma=1, learning_rate=0.5, random_seed=10,gl_const="sakoe_chiba", scr=60)
 som.pca_weights_init(data_all_new)
-som.train_batch(data_all_new, 20, verbose=False)
+som.train_batch(data_all_new, 1000, verbose=False)
 weights = som.get_weights()
 weights_init = som.pca_weights_init(data_all_new)
 #results = som.labels_map(data_all_new,windows)
